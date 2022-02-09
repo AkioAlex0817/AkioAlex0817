@@ -247,17 +247,22 @@
     <tr>
         <td>
             <a href="https://apps.apple.com/jp/app/id1481693102?l=ja" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/sellersket_app.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/sellersket_app.png" width="200">
             </a>
         </td>          
         <td>
             <a href="https://apps.apple.com/ca/app/peopletail-rewards/id1593841669" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/peopletail.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/peopletail.png" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://apps.apple.com/us/app/fastap/id1546078994" target="_blank">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/fastap.png" width="200">
             </a>
         </td>
         <td>
             <a href="#" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/monito.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/monito.png" width="200">
             </a>
         </td>
     </tr>  

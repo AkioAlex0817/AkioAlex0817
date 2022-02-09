@@ -183,22 +183,22 @@
     <tr>
         <td>
             <a href="https://sellersket-price.com/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/images/blob/main/SellerSketPrice.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/SellerSketPrice.png" width="200">
             </a>
         </td>      
         <td>
             <a href="https://sellersket.com/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/SellerSket_.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/SellerSket_.png" width="200">
             </a>
         </td>   
         <td>
             <a href="https://learnbiz.jp" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/LearnBiz.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/LearnBiz.png" width="200">
             </a>
         </td>   
         <td>
             <a href="https://www.m-piece.com/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/BPO.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/BPO.png" width="200">
             </a>
         </td> 
     </tr>  
@@ -212,17 +212,17 @@
     <tr>
         <td>
             <a href="https://deduraku.sakura.ne.jp" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/Construction.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/Construction.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://upnow.jp/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/Upnow.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/Upnow.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://www.teinei.co.jp/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/teinei.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/teinei.png" width="200">
             </a>
         </td>                       
     </tr>

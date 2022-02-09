@@ -183,7 +183,7 @@
     <tr>
         <td>
             <a href="https://sellersket-price.com/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/SellerSketPrice.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/images/SellerSketPrice.png" width="200">
             </a>
         </td>      
         <td>

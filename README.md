@@ -134,18 +134,18 @@
     </thead>
     <tr>
         <td>
-            <a href="https://github.com/bmstar2012/CryptoPigs" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/cryptopigs_1.png" width="200">
+            <a href="https://github.com/AkioAlex0817/CryptoPigs" target="_blank">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/cryptopigs_1.png" width="200"> 
             </a>
         </td>
         <td>
-            <a href="https://github.com/bmstar2012/GostFace" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/gost_1.png" width="200">
+            <a href="https://github.com/AkioAlex0817/GostFace" target="_blank">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/gost_1.png" width="200">
             </a>
         </td> 
         <td>
             <a href="https://funkifoxes.com/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/FunkiFoxes.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/FunkiFoxes.png" width="200"> 
             </a>
         </td>
     </tr>
@@ -158,19 +158,25 @@
         <tr>
             <td>Funkiverse</td>
             <td>CosmicSwap</td>
+            <td>CD3D</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://github.com/bmstar2012/Funkiverse" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/funkiverse_1.png" width="200">
+            <a href="https://github.com/AkioAlex0817/Funkiverse" target="_blank">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/funkiverse_1.png" width="200">
             </a>
         </td>          
         <td>
             <a href="https://app.cosmicswap.finance/" target="_blank">
-                <img src="https://github.com/bmstar2012/images/blob/main/cosmicswap.png" width="200">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/cosmicswap.png" width="200">
             </a>
         </td>   
+        <td>
+            <a href="https://github.com/AkioAlex0817/CD3D" target="_blank">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/cd3d.png" width="200">
+            </a>
+        </td>
     </tr>  
 </table>
 
@@ -270,7 +276,7 @@
 
 ## AWARDS
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akioalex0817)](https://github.com/bmstar2012/bmstar2012)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akioalex0817)](https://github.com/Akioalex0817/Akioalex0817)
 
 <!--
 **AkioAlex0817/AkioAlex0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

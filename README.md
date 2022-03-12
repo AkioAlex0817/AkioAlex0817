@@ -3,7 +3,7 @@
 ### **_Contact Details_**
 
 <p align='center'>
-<a href="https://t.me/bmstar2012" target="_blank">
+<a href="https://t.me/akioalex" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/akio-alex-b5b754176/"  target="_blank">
@@ -180,23 +180,28 @@
     </tr>  
 </table>
 
-- Bussiness System
+- Business System
 
 <table>
 <thead align="center">
         <tr>
-            <td>SellerSket価格改定</td>
+            <td>SBI Art Auction</td>
+            <td>MALLET JAPAN</td>
             <td>SellerSket</td>
-            <td>ラーンビズ</td>
-            <td>有人監視システム</td>
+            <td>Learnbiz</td>
         </tr>
     </thead>
     <tr>
         <td>
-            <a href="https://sellersket-price.com/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/SellerSketPrice.png" width="200">
+            <a href="https://www.sbiartauction.co.jp/" target="_blank">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/sbi_art.png" width="200">
             </a>
         </td>      
+        <td>
+            <a href="https://mallet.co.jp/" target="_blank">
+                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/mallet_japan.png" width="200">
+            </a>
+        </td>   
         <td>
             <a href="https://sellersket.com/" target="_blank">
                 <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/SellerSket_.png" width="200">
@@ -206,36 +211,7 @@
             <a href="https://learnbiz.jp" target="_blank">
                 <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/LearnBiz.png" width="200">
             </a>
-        </td>   
-        <td>
-            <a href="https://www.m-piece.com/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/BPO.png" width="200">
-            </a>
         </td> 
-    </tr>  
-      <thead align="center">
-        <tr>
-            <td>Construction Business</td>
-            <td>レンタルスペース</td>
-            <td>ていねい通販</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://deduraku.sakura.ne.jp" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/Construction.png" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://upnow.jp/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/Upnow.png" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://www.teinei.co.jp/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/teinei.png" width="200">
-            </a>
-        </td>                       
     </tr>
 </table>
 

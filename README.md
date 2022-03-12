@@ -1,29 +1,50 @@
-<h1 align="center">Hi 👋, I'm a full stack blockchain & web & app developer.</h1>
+<h1 align="center">Senior Blockchain & Web application & App developer</h1>
 
-### **_Contact Details_**
+### - About me
+Senior Blockchain, Web and App developer.<br>
+I'm a full-stack Blockchain & Web developer with 10+ years of experience.<br>
+I graduated from Kyoto University majoring in Computer Technology.<br>
+After graduating from college, I worked full-time as a programming developer for 8 years at two Japanese companies.<br>
+I moved to Hong Kong two years ago and have been working as a freelancer since then.<br>
+I have rich experience in developing smart contracts and DAPPs on various Blockchain ecosystems.<br>
+I know Rust and Solidity, and I have developed several Dapps and Defi apps.<br>
+In particular, I have experience in developing homepages that utilize the Laravel Framework, ReactJS, and VueJS.<br>
+I'm very good at developing apps, and I'm confident that I've mastered Flutter, especially.<br>
+And I know well about AWS.<br>
+Also, I can manage cloud servers.<br>
+My strength is that I value credit most in working on the project and don't know how to give up.<br>
+I would like to make use of the experience I have gained.<br>
+I'm looking for a job that fits my profile.<br>
 
-<p align='center'>
-<a href="https://t.me/akioalex" target="_blank">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+- Main Skill
+- Solana/Ethereum/Web3/Tokens/NFT/Defi/Dapps/
+- Rust/Anchor/Solidity/Python
+- React/Vue/Nextjs/Typescript
+- Flutter/Dart
+- PHP/Python/Laravel/Django
+
+
+### - Contact me
+
+<p>
+<a href="mailto:akioalex0817@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/akio-alex-b5b754176/"  target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:akioalex0817@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://t.me/akioalex" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
+<br>
 <p>
   <a href="https://github.com/AkioAlex0817/" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=AkioAlex0817&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
-  </a>
-
-  <a href="https://github.com/AkioAlex0817/AkioAlex0817" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkioAlex0817&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AkioAlex0817's GitHub Stats" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=AkioAlex0817&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="220px"/>
   </a>
 </p>
 
-## 🔧 Technologies & 📖 Languages
+### - My Skill
 
 <p align="left">
     <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img
@@ -41,26 +62,15 @@
     <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img
             src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" width="40"
             height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"
-                                                         rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-        height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank"
-                                                         rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-        width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django"
-        width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5" width="40" height="40"/> </a>
@@ -71,11 +81,6 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
          alt="laravel" width="40" height="40"/> </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-    <a
-        href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
-        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40"/> </a>
@@ -88,183 +93,68 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
         height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"
                                                           rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
         width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40"/> </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-        width="40" height="40"/> </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
         width="40" height="40"/> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-    <a
-        href="https://symfony.com" target="_blank" rel="noreferrer"> <img
-        src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
     <a
         href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    </a>
+
+### - Experiences
+
+#### 1. Business system
+- <a href="https://www.sbiartauction.co.jp/" target="_blank">
+    SBI Art Auction (https://www.sbiartauction.co.jp/)
 </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-         alt="vuejs" width="40" height="40"/> </a></p>
 
-## Experiences
+- <a href="https://mallet.co.jp/" target="_blank">
+    MALLET JAPAN (https://mallet.co.jp/)
+</a>
 
-- NFT Mint Dapps
+- <a href="https://sellersket.com/" target="_blank">
+    SellerSket (https://sellersket.com/)
+</a>
 
-<table>
-    <thead align="center">
-        <tr>
-            <td>CryptoPigs</td>           
-            <td>FunkiFoxes</td>
-            <td>CryptoSwords</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://github.com/AkioAlex0817/CryptoPigs" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/cryptopigs_1.png" width="200"> 
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/AkioAlex0817/GostFace" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/gost_1.png" width="200">
-            </a>
-        </td> 
-        <td>
-            <a href="https://funkifoxes.com/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/FunkiFoxes.png" width="200"> 
-            </a>
-        </td>
-    </tr>
-</table>
+- <a href="https://learnbiz.jp/" target="_blank">
+    LearnBiz (https://learnbiz.jp/)
+</a>
 
-- DEX
+#### 2. Mobile App
+- <a href="https://apps.apple.com/jp/app/id1481693102?l=ja" target="_blank">
+    Wakarunda (https://apps.apple.com/jp/app/id1481693102?l=ja)
+</a>
 
-<table>
-<thead align="center">
-        <tr>
-            <td>Funkiverse</td>
-            <td>CosmicSwap</td>
-            <td>CD3D</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://github.com/AkioAlex0817/Funkiverse" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/funkiverse_1.png" width="200">
-            </a>
-        </td>          
-        <td>
-            <a href="https://app.cosmicswap.finance/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/cosmicswap.png" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://github.com/AkioAlex0817/CD3D" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/cd3d.png" width="200">
-            </a>
-        </td>
-    </tr>  
-</table>
+- <a href="https://apps.apple.com/ca/app/peopletail-rewards/id1593841669" target="_blank">
+    PeopleTail Reward (https://apps.apple.com/ca/app/peopletail-rewards/id1593841669)
+</a>
 
-- Business System
+- <a href="https://apps.apple.com/us/app/fastap/id1546078994" target="_blank">
+    Fastap (https://apps.apple.com/us/app/fastap/id1546078994)
+</a>
 
-<table>
-<thead align="center">
-        <tr>
-            <td>SBI Art Auction</td>
-            <td>MALLET JAPAN</td>
-            <td>SellerSket</td>
-            <td>Learnbiz</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://www.sbiartauction.co.jp/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/sbi_art.png" width="200">
-            </a>
-        </td>      
-        <td>
-            <a href="https://mallet.co.jp/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/mallet_japan.png" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://sellersket.com/" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/SellerSket_.png" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://learnbiz.jp" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/LearnBiz.png" width="200">
-            </a>
-        </td> 
-    </tr>
-</table>
+- <a href="" target="_blank">
+    Monito
+</a>
 
-- Mobile APP
+#### 3. BlockChain
+- <a href="https://github.com/AkioAlex0817/CD3D" target="_blank">
+    CD3D (https://github.com/AkioAlex0817/CD3D)
+</a>
 
-<table>
-<thead align="center">
-        <tr>
-            <td>SellerSket</td>
-            <td>PeopleTail Reward</td>
-            <td>Fastap</td>
-            <td>Monito</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://apps.apple.com/jp/app/id1481693102?l=ja" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/sellersket_app.png" width="200">
-            </a>
-        </td>          
-        <td>
-            <a href="https://apps.apple.com/ca/app/peopletail-rewards/id1593841669" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/peopletail.png" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://apps.apple.com/us/app/fastap/id1546078994" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/fastap.png" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="#" target="_blank">
-                <img src="https://github.com/Akioalex0817/Akioalex0817/blob/main/images/monito.png" width="200">
-            </a>
-        </td>
-    </tr>  
-</table>
+- <a href="https://solana-twitter.netlify.app/#/" target="_blank">
+    Solana Twitter (https://solana-twitter.netlify.app/#/)
+</a>
 
-## AWARDS
+- <a href="https://app.cosmicswap.finance/" target="_blank">
+    CosmicSwap (https://app.cosmicswap.finance/)
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akioalex0817)](https://github.com/Akioalex0817/Akioalex0817)
-
-<!--
-**AkioAlex0817/AkioAlex0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://github.com/AkioAlex0817/AkioAlex0817" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkioAlex0817&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AkioAlex0817's GitHub Stats" height="220px"/>
+  </a></p>

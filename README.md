@@ -8,6 +8,8 @@ After graduating from college, I worked full-time as a programming developer for
 I moved to Hong Kong two years ago and have been working as a freelancer since then.<br>
 I have rich experience in developing smart contracts and DAPPs on various Blockchain ecosystems.<br>
 I know Rust and Solidity, and I have developed several Dapps and Defi apps.<br>
+And now a days, I researched about the LayerZero protocal.<br>
+Then, I made OmniChain NFT using LayerZero protocol.<br>
 In particular, I have experience in developing homepages that utilize the Laravel Framework, ReactJS, and VueJS.<br>
 I'm very good at developing apps, and I'm confident that I've mastered Flutter, especially.<br>
 And I know well about AWS.<br>

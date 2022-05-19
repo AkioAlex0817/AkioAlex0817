@@ -109,38 +109,10 @@ I'm looking for a job that fits my profile.<br>
 
 ### - Experiences
 
-#### 1. Business system
-- <a href="https://www.sbiartauction.co.jp/" target="_blank">
-    SBI Art Auction (https://www.sbiartauction.co.jp/)
-</a>
-
-- <a href="https://mallet.co.jp/" target="_blank">
-    MALLET JAPAN (https://mallet.co.jp/)
-</a>
-
-- <a href="https://sellersket.com/" target="_blank">
-    SellerSket (https://sellersket.com/)
-</a>
-
-- <a href="https://learnbiz.jp/" target="_blank">
-    LearnBiz (https://learnbiz.jp/)
-</a>
-
-#### 2. Mobile App
-- <a href="https://apps.apple.com/jp/app/id1481693102?l=ja" target="_blank">
-    Wakarunda (https://apps.apple.com/jp/app/id1481693102?l=ja)
-</a>
+#### 1. Mobile App
 
 - <a href="https://apps.apple.com/ca/app/peopletail-rewards/id1593841669" target="_blank">
     PeopleTail Reward (https://apps.apple.com/ca/app/peopletail-rewards/id1593841669)
-</a>
-
-- <a href="https://apps.apple.com/us/app/fastap/id1546078994" target="_blank">
-    Fastap (https://apps.apple.com/us/app/fastap/id1546078994)
-</a>
-
-- <a href="" target="_blank">
-    Monito
 </a>
 
 #### 3. BlockChain

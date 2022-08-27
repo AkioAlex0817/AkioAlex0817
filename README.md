@@ -144,6 +144,31 @@ I'm looking for a job that fits my profile.<br>
 </a>
 
 #### 3. BlockChain
+- <a href="https://akioalex0817.github.io/" target="_blank">
+    Solana AMM Swap (https://akioalex0817.github.io/)
+</a>
+
+- <a href="#" target="_blank">
+    Solana NFT Marketplace
+</a>
+
+
+- <a href="#" target="_blank">
+    Solana Token claim
+</a>
+
+- <a href="#" target="_blank">
+    Solana Solana NFT Mint (Without use Metaplex)
+</a>
+
+- <a href="#" target="_blank">
+    Solana Token Staking(Flexible, Locked)
+</a>
+
+- <a href="#" target="_blank">
+    Solana IDO Pool
+</a>
+
 - <a href="https://github.com/AkioAlex0817/CD3D" target="_blank">
     CD3D (https://github.com/AkioAlex0817/CD3D)
 </a>
@@ -160,18 +185,3 @@ I'm looking for a job that fits my profile.<br>
 <a href="https://github.com/AkioAlex0817/AkioAlex0817" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkioAlex0817&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AkioAlex0817's GitHub Stats" height="220px"/>
   </a></p>
-New AkioAlex0817/AkioAlex0817 is now a special repository: its README.md will appear on your profile!
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About

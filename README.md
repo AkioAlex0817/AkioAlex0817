@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@AkioAlex0817 
+AkioAlex0817
+/
+AkioAlex0817
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+AkioAlex0817/README.md
+@AkioAlex0817
+AkioAlex0817 Update README.md
+Latest commit 6b7e02a on Apr 30
+ History
+ 1 contributor
+162 lines (142 sloc)  8.48 KB
+
 <h1 align="center">Senior Blockchain & Web application & App developer</h1>
 
 ### - About me
@@ -109,10 +138,38 @@ I'm looking for a job that fits my profile.<br>
 
 ### - Experiences
 
-#### 1. Mobile App
+#### 1. Business system
+- <a href="https://www.sbiartauction.co.jp/" target="_blank">
+    SBI Art Auction (https://www.sbiartauction.co.jp/)
+</a>
+
+- <a href="https://mallet.co.jp/" target="_blank">
+    MALLET JAPAN (https://mallet.co.jp/)
+</a>
+
+- <a href="https://sellersket.com/" target="_blank">
+    SellerSket (https://sellersket.com/)
+</a>
+
+- <a href="https://learnbiz.jp/" target="_blank">
+    LearnBiz (https://learnbiz.jp/)
+</a>
+
+#### 2. Mobile App
+- <a href="https://apps.apple.com/jp/app/id1481693102?l=ja" target="_blank">
+    Wakarunda (https://apps.apple.com/jp/app/id1481693102?l=ja)
+</a>
 
 - <a href="https://apps.apple.com/ca/app/peopletail-rewards/id1593841669" target="_blank">
     PeopleTail Reward (https://apps.apple.com/ca/app/peopletail-rewards/id1593841669)
+</a>
+
+- <a href="https://apps.apple.com/us/app/fastap/id1546078994" target="_blank">
+    Fastap (https://apps.apple.com/us/app/fastap/id1546078994)
+</a>
+
+- <a href="" target="_blank">
+    Monito
 </a>
 
 #### 3. BlockChain
@@ -132,3 +189,18 @@ I'm looking for a job that fits my profile.<br>
 <a href="https://github.com/AkioAlex0817/AkioAlex0817" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkioAlex0817&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AkioAlex0817's GitHub Stats" height="220px"/>
   </a></p>
+New AkioAlex0817/AkioAlex0817 is now a special repository: its README.md will appear on your profile!
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

@@ -35,7 +35,7 @@ I'm looking for a job that fits my profile.<br>
 <a href="https://www.linkedin.com/in/akio-alex-b5b754176/"  target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://t.me/akioalex" target="_blank">
+<a href="https://t.me/akioalex0817" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>

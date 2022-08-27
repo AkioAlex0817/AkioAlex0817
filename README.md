@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@AkioAlex0817 
-AkioAlex0817
-/
-AkioAlex0817
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-AkioAlex0817/README.md
-@AkioAlex0817
-AkioAlex0817 Update README.md
-Latest commit 6b7e02a on Apr 30
- History
- 1 contributor
-162 lines (142 sloc)  8.48 KB
-
 <h1 align="center">Senior Blockchain & Web application & App developer</h1>
 
 ### - About me

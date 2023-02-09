@@ -5,7 +5,6 @@ Senior Blockchain, Web and App developer.<br>
 I'm a full-stack Blockchain & Web developer with 10+ years of experience.<br>
 I graduated from Kyoto University majoring in Computer Technology.<br>
 After graduating from college, I worked full-time as a programming developer for 8 years at two Japanese companies.<br>
-I moved to Hong Kong two years ago and have been working as a freelancer since then.<br>
 I have rich experience in developing smart contracts and DAPPs on various Blockchain ecosystems.<br>
 I know Rust and Solidity, and I have developed several Dapps and Defi apps.<br>
 And now a days, I researched about the LayerZero protocal.<br>
